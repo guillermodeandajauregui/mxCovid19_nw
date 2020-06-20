@@ -2,7 +2,7 @@
 
 
 
-The COVID-19 epidemic in Mexico is the result of several simultaneous epidemic dynamics occuring simultaneously. Patterns of interdependence arise, that may be driven by complex underlying phenomena. 
+The COVID-19 epidemic in Mexico is the result of several epidemic dynamics occuring simultaneously. Patterns of interdependence arise, that may be driven by complex underlying phenomena. 
 
 ### In this work, a network that captures the statistical dependence between epidemic processes in each of the municipalities in Mexico
 
